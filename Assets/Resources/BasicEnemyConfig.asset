@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaaa6a209f13bd64198e44beee221250, type: 3}
+  m_Name: BasicEnemyConfig
+  m_EditorClassIdentifier: 
+  health: 1
+  speed: 1.5
+  skins:
+  - {fileID: 2130637166302028825, guid: 600dab64df55c044588eae8368795caa, type: 3}
+  - {fileID: 1595030504329564960, guid: 64f2c3fd8a3ea5c448f44e7c2577f0e4, type: 3}
+  - {fileID: 540240537712251706, guid: a6278801e3b7bde449b2f33f920ec820, type: 3}
