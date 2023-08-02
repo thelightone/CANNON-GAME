@@ -19,7 +19,7 @@ public class ScoreCounter : MonoBehaviour
 
     private void CheckFinish()
     {
-        if (_monsterCounter > 2)
+        if (_monsterCounter > 9)
         {
             UIManager.Instance.FinishCanvas();
             UIManager.Instance.finScores.text = _scoreCounter.ToString();
